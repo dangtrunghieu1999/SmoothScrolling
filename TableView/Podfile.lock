@@ -1,0 +1,16 @@
+PODS:
+  - WatchdogInspector (1.3.0)
+
+DEPENDENCIES:
+  - WatchdogInspector
+
+SPEC REPOS:
+  trunk:
+    - WatchdogInspector
+
+SPEC CHECKSUMS:
+  WatchdogInspector: 439a73b047028a6048a59e56b70fcf11045a6e13
+
+PODFILE CHECKSUM: a7b41ad4b113b4f86333cb30f50f7de1c07228e0
+
+COCOAPODS: 1.11.2
